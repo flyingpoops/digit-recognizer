@@ -2,11 +2,11 @@
 
 #### Python Libraries Needed
 
-.numpy scipy matplotlib
+⋅⋅* numpy scipy matplotlib
 
-.pandas==0.18.1
+⋅⋅* pandas==0.18.1
 
-.scikit-learn==0.17.1
+⋅⋅* scikit-learn==0.17.1
 
 #### Additional Steps (Requirements) for Neural Network (Step 1 and 2 is optional for training on GPU)
 
