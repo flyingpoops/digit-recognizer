@@ -1,7 +1,7 @@
 # digit-recognizer
 
 # Files and description
-cnn1.py = Simple Convolutional Nerual Network 
+cnn1.py = Simple Convolutional Nerual Network \n
 cnn2.py = Multi Convolutional Layer Nerual Network
 
 # Performance Measure
