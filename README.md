@@ -1,8 +1,8 @@
 # digit-recognizer
 
 # Files and description
-cnn1.py = Simple Convolutional Nerual Network \n
-cnn2.py = Multi Convolutional Layer Nerual Network
+1. cnn1.py = Simple Convolutional Nerual Network
+2. cnn2.py = Multi Convolutional Layer Nerual Network
 
 # Performance Measure
 | Model         | Offline Cost (secs) | Online Cost (secs) | Accuracy(%) |
