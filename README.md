@@ -3,9 +3,7 @@
 #### Python Libraries Needed
 
 * numpy scipy matplotlib
-
 * pandas==0.18.1
-
 * scikit-learn==0.17.1
 
 #### Additional Steps (Requirements) for Neural Network (Step 1 and 2 is optional for training on GPU)
@@ -22,6 +20,7 @@
 2. cnn2.py = Multi Convolutional Layer Nerual Network
 
 #### Performance Measure
+
 | Model         | Offline Cost (secs) | Online Cost (secs) | Accuracy(%) |
 | ------------- |--------------------:| ------------------:|------------:|
 | PCA + LDA                                 | 20.81 | 3.5 | 84.2 |
