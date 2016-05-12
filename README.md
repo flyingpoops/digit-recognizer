@@ -6,10 +6,12 @@
 * pandas==0.18.1
 * scikit-learn==0.17.1
 
-#### Additional Steps (Requirements) for Neural Network (Step 1 and 2 is optional for training on GPU)
+#### Additional Steps (Requirements) for Neural Network 
+
+Step 1 and 2 are optional, only for training on GPU
 
 1. Install [cuda](https://developer.nvidia.com/cuda-toolkit)(v7.5)
-2. Install [theano](http://deeplearning.net/software/theano/)==0.8.2 [Windows Install](http://deeplearning.net/software/theano/install_windows.html)or [Ubuntu Install](http://deeplearning.net/software/theano/install_ubuntu.html), [GPU Config](http://deeplearning.net/software/theano/tutorial/using_gpu.html)
+2. Install [theano](http://deeplearning.net/software/theano/)==0.8.2 [Windows Install](http://deeplearning.net/software/theano/install_windows.html) or [Ubuntu Install](http://deeplearning.net/software/theano/install_ubuntu.html), [GPU Config](http://deeplearning.net/software/theano/tutorial/using_gpu.html)
 3. Add python library h5py==2.6.0
 4. Add python library keras==1.0.2
 
