@@ -10,7 +10,7 @@
 
 Step 1 and 2 are optional, only for training on GPU
 
-1. Install [cuda](https://developer.nvidia.com/cuda-toolkit)(v7.5)
+1. Install [cuda](https://developer.nvidia.com/cuda-toolkit) (v7.5), [cudnn](https://developer.nvidia.com/cudnn) (v5)
 2. Install [theano](http://deeplearning.net/software/theano/)==0.8.2 [Windows Install](http://deeplearning.net/software/theano/install_windows.html) or [Ubuntu Install](http://deeplearning.net/software/theano/install_ubuntu.html), [GPU Config](http://deeplearning.net/software/theano/tutorial/using_gpu.html)
 3. Add python library h5py==2.6.0
 4. Add python library keras==1.0.2
@@ -32,6 +32,6 @@ Traun Leyden kindly provides instructions on how to install cuda on amazon ec2  
 | Simple Convolutional Nerual Network*      | 42 | 7 | 98.8 |
 | Multi Convolutional Layer Nerual Network* | 4320 | 18 | 99.5 |
 
-This model runs on GPU
+* Model runs on Nvidia Tesla M20XX GPU on Amazon EC2
 
 Last Update on 05/12/2016
