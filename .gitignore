@@ -3,3 +3,6 @@ input
 
 # Ignore models and weights
 **/*.pkl
+
+# Ignore cookies
+**/cookies.txt
