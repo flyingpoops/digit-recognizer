@@ -22,7 +22,7 @@ def trimFileName(file_name):
 # output: None
 def main():
 	# Make a new folder to save results
-	newDir = str(os.getcwd())+"/analysis"
+	newDir = str(os.getcwd())+"/model"
 	if not os.path.exists(newDir):
 		os.makedirs(newDir)
 
